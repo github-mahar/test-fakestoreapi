@@ -1,5 +1,5 @@
 
-# 🛒 lec2: React E-Commerce Demo
+# 🛒 test-fakestoreapi: React E-Commerce Demo
 
 This is a modern e-commerce demo application built with **React**, **Vite**, and **Tailwind CSS**. It features product browsing, shopping cart, theme toggling, and responsive design. Products are fetched from [Fake Store API](https://fakestoreapi.com/).
 
